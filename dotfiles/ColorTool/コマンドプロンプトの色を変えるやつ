@@ -1,0 +1,8 @@
+コマンドプロンプトの色をいろいろ変えるやつ
+	
+	・次回起動時のテーマ設定
+		colortool -d [テーマ名]
+
+	参考：https://qiita.com/yoshikingt/items/21d9e3fb8b8f22ab3476
+
+	
