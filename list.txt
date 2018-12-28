@@ -1,0 +1,18 @@
+ConvertToUTF8
+Default
+HTML-CSS-JS Prettify
+IMESupport
+Japanize
+Jedi - Python autocompletion
+list.txt
+markupsafe
+mdpopups
+pygments
+pyte
+Python PEP8 Autoformat
+python-jinja2
+python-markdown
+pywinpty
+Terminus
+User
+wcwidth
